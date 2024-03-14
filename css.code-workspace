@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../latihan-mandiri/assets/css"
+		},
+		{
+			"path": "../latihan-mandiri/assets/img"
+		},
+		{
+			"path": "../latihan-mandiri/assets/js"
+		},
+		{
+			"path": "../latihan-mandiri/assets/scss"
+		},
+		{
+			"path": "../latihan-mandiri/assets/vendor"
+		}
+	],
+	"settings": {}
+}
